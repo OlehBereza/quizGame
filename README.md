@@ -59,17 +59,22 @@ Pobrać file i otwóz głowny file test.sln. Po otworzeniu wszodzimy do test.cpp
 <h2>
   Zrzuty ekranu
 </h2>
-Wynik koncowy obliczenia Wyswietlenia Nazwiska i oceny średniej
+Zaczynamy od podania imienia i nazwiska, wyswietla sie tablica MENU wybieramy istniejącą opcje
 
-![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_3.jpg?raw=true)
-
-<br>
-Main tworzący 3 ucznia i przepisywania ich do listy, tworzenia istniejącyh ocen do wykładów 
-
-![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_2.jpg?raw=true)
+![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_1.jpg?raw=true)
 
 <br>
-Przypisywania utworzonym uczniam ocen do pewnego przedmiotu i sortowanie listy według Nazwisku
+Wybieram poziom trudnści i otrzymuje 5 zyć. Następnym krokiem wybieram numer tematu naprzykłąd Morze Bałtyckiei Polska 
 
-![alt tag](https://github.com/OlehBereza/Java-School-Project/blob/main/screen/Screenshot_1.jpg?raw=true)
+![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_2.jpg?raw=true)
+
+<br>
+Odpowiadamy na 8 pytan na wybrany temat
+
+![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_3.jpg?raw=true)
+
+<br>
+Na końcu wyswietla się tablczka z Imiem Nazwiskiem Punktami które dostałęm i oceną
+
+![alt tag](https://github.com/OlehBereza/quizGame/blob/main/screenquiz/Screenshot_4.jpg?raw=true)
 
