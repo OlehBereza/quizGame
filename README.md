@@ -53,7 +53,7 @@ Stworzony w programie:
 </h3>
 Program ma minimalne wymaganie sprzętowe<br>
 Pobierz podaną versje programu lub nowszą Visual Studio<br>
-Pobrać file i otwóz głowny file test.sln. Po otworzeniu wszodzimy do test.cpp w Solution Explorerw
+Pobrać (.vs/test/v16, Debug, test, test.sln) i otwóz głowny file test.sln. Po otworzeniu wszodzimy do test.cpp w Solution Explorerw
 
 
 <h2>
