@@ -8,6 +8,11 @@
 <i>
 <p align="right">
   Oleh Bereza
+  
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-behance-30.png?raw=true)](https://www.behance.net/onyer)
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-facebook-30.png?raw=true)](https://www.facebook.com/bob.carat.94)
+[![Behance](https://github.com/OlehBereza/quizGame/blob/main/images/icons8-instagram-30.png?raw=true)](https://www.instagram.com/ob.berezv/)
+  
 </p>
 </i>
 
