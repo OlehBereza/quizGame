@@ -1,7 +1,6 @@
 <h1 align="center">
-  <b>Quiz Game</b>
+  <p>Quiz Game</p>
 </h1>
-
 <p align="center">
   <img src="https://cdn.freelogovectors.net/svg08/quiz-logo.svg" />
 </p>
@@ -20,7 +19,7 @@
 </h3>
 Czwiceniowa Gra Quiz w wierszu poleceń Visual Studio 2019 na punkty z wyborem cięzkości i ocenianiem na końcu
 Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języku C++, utworzenia metod, objektów, void, obliczeń przez switch | case | if | else if
-<br>
+<hr>
 
 <h3>
   <i>
@@ -30,8 +29,7 @@ Przez stworzenia tego pruektu głownym zamiarem było nauczyc się Podstaw języ
 Program oblicza zapisuje nowego użytkownika, pobiera imię i nazwisko dalej gracz musi wybrać temat i trudność<br>
 Trudność daje okresloną liczbę żyć czyli błędnych odpowiedzi.<br>
 Dobra odpowiedż daje 1 punkt a zła odemuje życie, jezei życia się skończą to gra się skońcy i wyswietli info(imię nazwisko i ile dostałeś punktów i jaką masz ocene).
-
-<br>
+<hr>
 
 <h3>
   <i>
@@ -40,11 +38,33 @@ Dobra odpowiedż daje 1 punkt a zła odemuje życie, jezei życia się skończą
 </h3>
 Project stworzny przez:
 <br>
-- C++
+    <ul type="circle">
+     <li>C++</li>
+   </ul>
 <br>
 Stworzony w programie:
 <br>
-- Visual Studio 2019 Version 4.8.04084
+    <ul type="circle">
+     <li>Visual Studio 2019 Version 4.8.04084</li>
+   </ul>
+<hr>
+
+<h3>
+  <i>
+  Cechy
+  </i>
+</h3>
+<p>
+    <ul>
+     <li>Wybór trudnośći </li>
+     <li>Wybór tematu</li>
+     <li>Odejmowanie żyć</li>
+     <li>Oblcznie punktów za poprawne odpowiedzi</li>
+     <li>Wystawianie oceny za quiz</li>
+     <li>Opcja menu na start</li>
+   </ul>
+</p>
+<hr>
 
 <h3>
   <i>
@@ -54,8 +74,18 @@ Stworzony w programie:
 Program ma minimalne wymaganie sprzętowe<br>
 Pobierz podaną versje programu lub nowszą Visual Studio<br>
 Pobrać (.vs/test/v16, Debug, test, test.sln) i otwóz głowny file test.sln. Po otworzeniu wszodzimy do test.cpp w Solution Explorerw
+<hr>
 
-
+<h3>
+  <i>
+  Przykłady użycia
+  </i>
+</h3>
+<p>
+Wykonywanie testów na różne tematy zadena autorem i sprawdzenie wiedzy wybranego tematu.
+</p>
+<hr>
+<br>
 <h2>
   Zrzuty ekranu
 </h2>
